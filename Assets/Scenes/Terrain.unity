@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 64086338893188225, guid: 665b04ab008d0614d9e30f0f0e9c831c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 134.38
+      value: 126
       objectReference: {fileID: 0}
     - target: {fileID: 64086338893188225, guid: 665b04ab008d0614d9e30f0f0e9c831c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -195,6 +195,14 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0.64782715
       objectReference: {fileID: 0}
+    - target: {fileID: 4359566419326114317, guid: 665b04ab008d0614d9e30f0f0e9c831c, type: 3}
+      propertyPath: far clip plane
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4359566419326114317, guid: 665b04ab008d0614d9e30f0f0e9c831c, type: 3}
+      propertyPath: near clip plane
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4789414193698040428, guid: 665b04ab008d0614d9e30f0f0e9c831c, type: 3}
       propertyPath: m_Name
       value: Player
@@ -234,7 +242,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 780611a67e8e941a2b3aa96e5915a793, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 124
+      value: 116
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 780611a67e8e941a2b3aa96e5915a793, type: 3}
       propertyPath: m_LocalPosition.z
@@ -291,7 +299,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5899598083228704060, guid: 4bf7275c72312ae458f66dcf8f414816, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 131.86
+      value: 129
       objectReference: {fileID: 0}
     - target: {fileID: 5899598083228704060, guid: 4bf7275c72312ae458f66dcf8f414816, type: 3}
       propertyPath: m_LocalPosition.z
